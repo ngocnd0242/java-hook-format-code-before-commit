@@ -1,0 +1,11 @@
+{
+    "devDependencies": {
+        "prettier": "1.19.1",
+        "prettier-plugin-java": "^0.7.0"
+    },
+    "dependencies": {
+        "husky": "^4.2.1",
+        "jsonlint": "^1.6.3",
+        "lint-staged": "^10.0.7"
+    }
+}
